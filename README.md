@@ -1,4 +1,4 @@
-This is the code used in the article **Flexible, Non-parametric Modeling Using Regularized Neural Networks**, available at https://arxiv.org/abs/2012.11369 and https://link.springer.com/content/pdf/10.1007%2Fs00180-021-01190-4.pdf.
+This is the code used in the article **Flexible, Non-parametric Modeling Using Regularized Neural Networks**, available at https://arxiv.org/abs/2012.11369 and https://link.springer.com/content/pdf/10.1007/s00180-021-01190-4.pdf.
 All code is run using Python 2.7.15 and TensorFlow 1.10.1.
 
 ## Figures and Tables in Section 3.1:
